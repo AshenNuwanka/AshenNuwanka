@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashennuwanka" alt="ashennuwanka" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashenrathnayke" target="blank">
-  <img align="center" alt="Developer" width="1050" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+  <img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="rc____08" /></a> </p>
   <img src="https://img.shields.io/twitter/follow/ashenrathnayke?logo=twitter&style=for-the-badge" alt="ashenrathnayke" /></a> </p>
 
 - 💬 Ask me about **HTML,Java Script , PHP ,java**
